@@ -1,0 +1,24 @@
+.container {
+    padding-top: 40px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Optional: For a little space between the sections */
+.section-content {
+    margin-top: 20px;
+}
+
+.divider {
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+}
+
+/* For work experience and right-side columns to sit next to each other */
+.row {
+    display: flex;
+    justify-content: space-between;
+}
