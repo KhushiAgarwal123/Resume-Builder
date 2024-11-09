@@ -1,1 +1,1 @@
-Resume-builder usinh html,css,javascript and Bootstarp
+Resume-builder using html,css,javascript and Bootstarp
